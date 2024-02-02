@@ -1,2 +1,2 @@
 # Send-Email
-Send Email App Using Python Automation Project
+## Send Email App Using Python Automation Project
